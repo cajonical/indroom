@@ -9,5 +9,6 @@
 	"delta_thresh": 5,
 	"resolution": [640, 480],
 	"fps": 16,
+	"rotation": 180,
 	"min_area": 5000
 }
