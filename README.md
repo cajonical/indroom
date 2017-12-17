@@ -21,7 +21,7 @@ Deployment with Docker is recommended for consistency of application environment
 	- [Link to installation instructions](https://howchoo.com/g/nmrlzmq1ymn/how-to-install-docker-on-your-raspberry-pi)
 	- ```bash
 	bash install_docker_on_rpi.sh
-    ```
+	```
 
 2. Switch to project directory
 	```bash
